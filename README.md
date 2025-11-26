@@ -65,7 +65,7 @@ Install Angular CLI and the specified TypeScript version globally.
     ```bash
     npm install -g @angular/cli@20.3.2
     ```
-2.  **Install TypeScript `5.2.8`:**
+2.  **Install TypeScript `5.8`:**
     ```bash
     npm install -g typescript@5.8
     ```
