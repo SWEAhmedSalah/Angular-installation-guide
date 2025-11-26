@@ -10,7 +10,7 @@ This guide provides instructions for setting up the required development environ
 | **Node.js** | `22.19.0` | Installed via NVM. |
 | **npm** | `11.6.0` | The version compatible with Node.js `22.19.0` is typically installed automatically. We will install the specific npm version after Node.js. |
 | **Angular CLI** | `20.3.2` | Installed globally via npm. |
-| **TypeScript** | `5.2.8` | Installed globally via npm. |
+| **TypeScript** | `5.8` | Installed globally via npm. |
 
 ---
 
