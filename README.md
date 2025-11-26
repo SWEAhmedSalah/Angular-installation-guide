@@ -143,7 +143,7 @@ Install Angular CLI and the specified TypeScript version globally.
     ```
 2.  **Install TypeScript `5.2.8`:**
     ```bash
-    npm install -g typescript@5.2.8
+    npm install -g typescript@5.8
     ```
 3.  **Verify Global Packages:**
     ```bash
@@ -151,4 +151,4 @@ Install Angular CLI and the specified TypeScript version globally.
     tsc -v
     ```
     * `ng version` should show **Angular CLI: 20.3.2**
-    * `tsc -v` should show **Version 5.2.8**
+    * `tsc -v` should show **Version 5.8**
